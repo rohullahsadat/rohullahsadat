@@ -38,12 +38,12 @@ Hi, I'm **Rohullah Sadat**, a web developer passionate about building useful, ac
 ### IBM Full Stack Developer Capstone
 A full-stack dealership application featuring dealer information, authentication, and customer reviews.
 
-[View Repository →](https://github.com/rohullahsadat1997/xrwvm-fullstack_developer_capstone)
+[View Repository →](https://github.com/rohullahsadat/xrwvm-fullstack_developer_capstone)
 
 ### AWMJA Website
 A web project supporting the digital presence of the Afghanistan Women's Movement for Justice and Awareness.
 
-[View Repository →](https://github.com/rohullahsadat1997/awmja-website)
+[View Repository →](https://github.com/rohullahsadat/awmja-website)
 
 ### Personal Portfolio
 My personal website and a place to showcase my work and development journey.
